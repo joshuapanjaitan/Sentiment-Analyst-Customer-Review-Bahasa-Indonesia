@@ -41,7 +41,7 @@ pip install jupyter
    ```sh
         jupyter notebook
    ```
-   b. Pada blok ke 4 terdapat code
+   b. Jalankan Progran dengan Menekan tombol **Run**
 
 ## Contributing
 
