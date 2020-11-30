@@ -4,12 +4,12 @@
 
 Klasifikasi sentiment berbasis naive bayes dengan menggunakan bahasa indonesia.
 
-Aplikasi ini merupakan implementasi sederhana dari Sentiment Analysis dari Costumer Review
-dimana tujuannya untuk mengetahui polaritas dari sentiment tersebut. Polaritas terbagi 2 yaitu:
--Sentiment Positive.
--Sentiment Negative.
-Aplikasi dibangun menggunakan Library NLTK link : https://www.nltk.org/book/ch06.html
-dan menggunakan dataset berbahasa indonesia.
+Aplikasi ini merupakan implementasi sederhana dari Sentiment Analysis dari Costumer Review  
+dimana tujuannya untuk mengetahui polaritas dari sentiment tersebut. Polaritas terbagi 2 yaitu:  
+-Sentiment Positive.  
+-Sentiment Negative.  
+Aplikasi dibangun menggunakan Library NLTK link : https://www.nltk.org/book/ch06.html  
+dan menggunakan dataset berbahasa indonesia.  
 
 ## Library Installation
 
